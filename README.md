@@ -56,10 +56,10 @@ experience.**Tech Stack**
 ## E-Commerce Website
 A responsive online shopping platform with authentication and cart 
 functionality.
-**Tech Stack**
+**Aura Gifts**
 `React` `Node.js` `Express` `MongoDB`
- Live Demo: [Project URL]
- Repository: [GitHub Repository]
+ Live Demo: [http://localhost:3000/]
+ Repository: [aura-gifts]
 ---
 
 # GitHub Stats<p align="center">
