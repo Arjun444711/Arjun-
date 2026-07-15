@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm [Your Name]</h1>
+<h1 align="center">Hi , I'm [Arjun.M]</h1>
 <h3 align="center">
  Full Stack Developer | AI/ML Developer | Passionate Problem Solver 
 </h3>
@@ -50,7 +50,7 @@ tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 Modern personal portfolio showcasing projects, skills, and 
 experience.**Tech Stack**
 `HTML` `CSS` `JavaScript` `React`
- Live Demo: [Portfolio URL]
+ Live Demo: [http://127.0.0.1:5500/portfolio.html]
  Repository: [GitHub Repository]
 ---
 ## E-Commerce Website
